@@ -34,5 +34,6 @@ Now the next step is to generate the dataset labels for Chars74K dataset. Once t
 
 ## Algorithm
 [Back to Table of Contents](README.md#table-of-contents)
+
 Logistic regression was used for building the OCR. Logistic regression was implemented using Theano Library.  
 
