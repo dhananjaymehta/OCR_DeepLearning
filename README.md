@@ -19,9 +19,9 @@ Dataset used in the project was used from "Chars74K dataset" and "Kaggle CIFAR-1
 ## Implementation
 [Back to Table of Contents](README.md#table-of-contents)
 This project sets up a three stage pipeline for building an object chatacter recognition. 
-###Stage 1: Pre process the input image and get the contour and image objects.
-###Stage 2: Text Detection, detects objects containing text within the image.
-###Stage 3: Character Recognition, Determine characters contained in the image.
+### Stage 1: Pre process the input image and get the contour and image objects.
+### Stage 2: Text Detection, detects objects containing text within the image.
+### Stage 3: Character Recognition, Determine characters contained in the image.
 
 First stage is involved with data preprocessing. This involve cleaning data and labelling the images. The dataset for the Stage 1 of the OCR pipeline is created using following steps : 
 1. Dataset containing images with text - The Chars74K dataset
