@@ -5,7 +5,7 @@ __author__ = 'Dhananjay Mehta and Swapnil Kumar'
         DESCRIPTION
     --------------------
 
-    CIS730 : Artificial Intelligence
+    CIS730 : Artificial Intelligence (Fall 2015)
     Text recognition from Unstructured Image and Natural Scenes using Supervised Learning Algorithms.
     Used Deep Learning library 'Theano' to implement the algorithm.
 
